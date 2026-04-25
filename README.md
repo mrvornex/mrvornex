@@ -2,7 +2,7 @@ Hi! My name is Bilal
 ==============================================================================
 
 I'm a Front-End Developer. 🪙💻
-<br/> 
+<br/>  
  
 ### Skills
 ![Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind)
