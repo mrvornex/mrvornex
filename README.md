@@ -1,7 +1,7 @@
 Hi! My name is Bilal 
 ==============================================================================
 
-I'm a Front-End Developer. 🪙💻
+I'm a MERN Stack Developer.
 <br/>  
  
 ### Skills
