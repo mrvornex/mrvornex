@@ -1,7 +1,6 @@
 # Hi, I'm Bilal 👋
 
-Full-Stack Software Developer from Karachi, Pakistan.  
-Currently learning, building, and growing — one project at a time.
+MERN Stack Developer from Karachi, Pakistan.  
 
 ---
 
