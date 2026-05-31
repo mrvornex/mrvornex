@@ -27,8 +27,3 @@ MERN Stack Developer from Karachi, Pakistan.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrvornex)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bilalali.office.pk@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mrvornex.vercel.app)
-
----
-
-*Always open to collaborating on interesting projects.*
- 
