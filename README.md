@@ -1,4 +1,4 @@
-# Hi, I'm Bilal 👋
+# Hi, I'm Bilal
 
 MERN Stack Developer from Karachi, Pakistan.  
 
