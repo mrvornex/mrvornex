@@ -4,7 +4,7 @@ MERN Stack Developer from Karachi, Pakistan.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,7 +22,7 @@ MERN Stack Developer from Karachi, Pakistan.
 
 ---
 
-## 📬 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrvornex)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bilalali.office.pk@gmail.com)
